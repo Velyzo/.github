@@ -41,13 +41,6 @@
   ## 📈 My Stats
   
   <div align="center">
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/wfxey#gh-dark-mode-only">
-      <img src="https://leetcard.jacoblin.cool/wfxey?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a href="https://leetcode.com/wfxey#gh-light-mode-only">
-      <img src="https://leetcard.jacoblin.cool/wfxey?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
     <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
     <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
   </div>
