@@ -5,7 +5,7 @@
 
   ### ✨ Profile Views Badge
   
-  ![Profile Views Badge](https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen)
+  ![Profile Views Badge](https://komarev.com/ghpvc/?username=VelisCore&color=brightgreen)
   
   ---
   
