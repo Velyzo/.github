@@ -1,6 +1,11 @@
 # 🎨 VelisCore Profile
 
 <div align="center">
+
+
+  ### ✨ Profile Views Badge
+  
+  ![Profile Views Badge](https://komarev.com/ghpvc/?username=VelisCore&color=brightgreen)
   
   ---
   
