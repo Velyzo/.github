@@ -1,9 +1,6 @@
 # 🎨 VelisCore Profile
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3db5b6e5-985c-4e44-a8b2-b9ee028b59db" alt="Velis Logo" style="max-width: 50%; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
-
-  ### ✨ Profile Views Badge
   
   ---
   
