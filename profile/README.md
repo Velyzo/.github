@@ -16,7 +16,7 @@
     
    **Instagram**: [@veliscore](https://www.instagram.com/veliscore/)  
     
-   **Discord**: [Join our community](http://discord.velis.me) 
+   **Discord**: [Join our community](https://discord.gg/mrgg7vuF48) 
     
    **X (formerly Twitter)**: [@velis_core](https://x.com/velis_core)
    
