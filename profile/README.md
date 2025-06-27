@@ -5,20 +5,20 @@
 
   ### ✨ Profile Views Badge
   
-  ![Profile Views Badge](https://komarev.com/ghpvc/?username=VelisCore&color=brightgreen)
+  ![Profile Views Badge](https://komarev.com/ghpvc/?username=VelyzoCore&color=brightgreen)
   
   ---
   
-  ### 🌍 VelisCore's Socials
+  ### 🌍 Velyzo's Socials
   
     
-   **Website**: [velis.me](https://velis.me)  
+   **Website**: [velyzo.de](https://velyzo.de)  
     
-   **Instagram**: [@veliscore](https://www.instagram.com/veliscore/)  
+   **Instagram**: [@Velyzo](https://www.instagram.com/Velyzo/)  
     
    **Discord**: [Join our community](https://discord.gg/mrgg7vuF48) 
     
-   **X (formerly Twitter)**: [@velis_core](https://x.com/velis_core)
+   **X (formerly Twitter)**: [@Velyzo_core](https://x.com/Velyzo_core)
    
   </p>
   
