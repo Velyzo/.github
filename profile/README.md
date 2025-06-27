@@ -1,4 +1,4 @@
-# 🎨 VelisCore Profile
+# 🎨 Velyzo Profile
 
 <div align="center">
 
